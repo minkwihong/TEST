@@ -7,7 +7,7 @@ public class TestMain {
             if(i % 10 == 0 && i > 0) System.out.println(i - 9 + " ~ "+ i + " = " + sum);
         }
 
-        System.out.println("안녕하세요!!!!!");
+        System.out.println("안녕하세요!!!!!2223334443");
 
     }
 }
